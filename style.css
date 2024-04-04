@@ -1,0 +1,80 @@
+#header{
+    display: inline;
+    position: relative;
+    left: 30px;
+    font-size: 48px;
+    color : #EFBC9B;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+body{
+    background-color: #FBF3D5;
+}
+
+#menu-buttons{
+    position: relative;
+    left:850px;
+    display: inline;
+    text-align: end;
+}
+li {
+    display: inline;
+    color: #EFBC9B;
+    font-size: 24px;
+    padding:20px;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.main-text{
+    position: relative;
+    font-size: 60px;
+    left:30px;
+    top:30px;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.image-container{
+    position: relative;
+    left:30px;
+    top:30px;
+    display: inline-block;
+}
+.first-image-desc{
+    float: left;
+}
+.second-image-desc{
+    float:right;
+    margin-left: 200px;
+}
+
+
+h3{
+    position: relative;
+    left: 20px;
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+}
+
+p{
+    position :relative;
+    left : 20px;
+    width:600px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+
+
+
+img{
+    float: left;
+    width: 300px;
+    height: 200px;
+}
